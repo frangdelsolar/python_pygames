@@ -1,0 +1,24 @@
+# Colores
+BLACK = (  150,  150,  150)
+GREY =  ( 100, 100, 100)
+WHITE = ( 220, 220, 220)
+GREEN = (   0, 255,   0)
+RED   = ( 255,   0,   0)
+BLUE  = (   0,   0, 255)
+OTRO = (255, 255, 0)
+
+# Board
+ROWS = 8
+COLS = 8
+BOARD_SIZE = (ROWS, COLS)
+
+# Screen
+SQUARE_SIZE = 100
+HEIGHT = SQUARE_SIZE * ROWS
+WIDTH = SQUARE_SIZE * COLS
+SCREEN_SIZE = (WIDTH, HEIGHT)
+
+
+
+# Game
+FONTSIZE = SQUARE_SIZE//2

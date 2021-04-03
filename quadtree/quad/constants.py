@@ -1,0 +1,17 @@
+# Colores
+BLACK = (   0,   0,   0)
+GREY =  ( 150, 150, 150)
+WHITE = ( 255, 255, 255)
+GREEN = (   0, 255,   0)
+RED   = ( 255,   0,   0)
+PINK   = ( 255,   180,   180)
+BLUE  = (   80,   80, 200)
+YELLOW = (255, 255, 0)
+
+# Screen
+SQUARE_SIZE = 40
+ROWS = 20
+COLS = 20
+HEIGHT = SQUARE_SIZE * ROWS
+WIDTH = SQUARE_SIZE * COLS
+SCREEN_SIZE = (WIDTH, HEIGHT)
